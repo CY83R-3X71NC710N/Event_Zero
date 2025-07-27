@@ -1,6 +1,6 @@
 # 🔬 Autonomous Docker Malware Analyzer
 
-## 🚀 Revolutionary AI-Driven Malware Analysis Platform
+## Revolutionary AI-Driven Malware Analysis Platform
 
 **The world's first fully autonomous malware analysis system that uses advanced AI to comprehensively map 100% of malware behavior until EVERY function, system call, and operation is understood in plain English.**
 
@@ -230,7 +230,7 @@ This revolutionary project welcomes contributions to further advance autonomous 
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
