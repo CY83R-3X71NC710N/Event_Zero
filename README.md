@@ -6,6 +6,8 @@
 
 Or as I like to call it... The first blacksite for malware.
 
+WARNING: ADVANCED MALWARE CAN ESCAPE THE DOCKER-VM CONTAINER, I RECOMMEND USING HARDENED VIRTUAL MACHINES FOR ADVANCED MALWARE ANALYSIS.
+
 ---
 
 ## 🌟 What Makes This Revolutionary?
