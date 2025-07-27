@@ -45,8 +45,8 @@ This project represents a **paradigm shift** in cybersecurity analysis. Never be
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/CY83R-3X71NC710N/Project_Nexus.git
-cd Project_Nexus
+git clone https://github.com/CY83R-3X71NC710N/Event_Zero.git
+cd Event_Zero
 ```
 
 ### 2. Set Your API Key
@@ -256,8 +256,8 @@ This project represents a **paradigm shift** in cybersecurity analysis, introduc
 
 For support, questions, or collaboration opportunities:
 
-- 🐛 **Issues**: [GitHub Issues](https://github.com/CY83R-3X71NC710N/Project_Nexus/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/CY83R-3X71NC710N/Project_Nexus/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/CY83R-3X71NC710N/Event_Zero/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/CY83R-3X71NC710N/Event_Zero/discussions)
 
 ---
 
